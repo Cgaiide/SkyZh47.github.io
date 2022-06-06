@@ -1,0 +1,9 @@
+{
+    "url": "http://39.105.110.172/xsstest.yaml",
+    "urls": [
+        {
+	"url": "http://39.105.110.172/xsstest.yaml",
+        "name": "Foo"
+        }
+    ]
+}
