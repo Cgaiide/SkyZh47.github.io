@@ -1,8 +1,8 @@
 {
-    "url": "http://39.105.110.172/xsstest.yaml",
+    "url": "https://raw.githubusercontent.com/SkyZh47/SkyZh47.github.io/main/xsstest.yaml",
     "urls": [
         {
-	"url": "http://39.105.110.172/xsstest.yaml",
+	"url": "https://raw.githubusercontent.com/SkyZh47/SkyZh47.github.io/main/xsstest.yaml",
         "name": "Foo"
         }
     ]
